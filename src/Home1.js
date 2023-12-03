@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Home = () => {
+const Home1 = () => {
 
 
     //let name = 'mario';
@@ -34,4 +34,4 @@ const Home = () => {
     );
 }
  
-export default Home;
+export default Home1;
