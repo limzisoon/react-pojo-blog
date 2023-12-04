@@ -5,7 +5,7 @@ npm install
 
 npm run start
 
-npx json-server --watch cd/db.json --port 9000
+npx json-server --watch data/db.json --port 9000
 
 # access url
 http://localhost:3000
